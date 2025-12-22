@@ -1,24 +1,41 @@
 👋 Hey, I'm Olawole Temitope – aka Biggie 👨‍💻
 
-Typing SVG
-🚀 About Me
+
+🚀 About Me:
+
 🎥 I teach web dev 
+
 💻 Passionate about building fullstack apps with React, Next.js, TypeScript, and Supabase
+
 🧠 Constantly learning & sharing what I learn
+
 🛠️ Focused on performance, developer experience, and clean UI
 
 
 
-🧠 My Favorite Stack
-React Next.js TypeScript TailwindCSS
+
+
+
+🧠 My Favorite Stack:
+React, 
+Next.js,
+TypeScript,
+TailwindCSS,
+javascript,
+
+
 
 
 
 Fun Facts:
-I have two cats
+
+I have a dog
+
 I don’t like coffee or tea
-Demon Slayer is my favorite anime
-Hobbies: anime, gym, building things
+
+
+Hobbies: anime, gaming, building things
+
 
  
 🤝 Connect with Me

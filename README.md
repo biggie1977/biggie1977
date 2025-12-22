@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hey, I'm Pedro – aka PedroTech 👨‍💻
+Typing SVG
+🚀 About Me
+🎥 I teach web dev to millions on YouTube
+💻 Passionate about building fullstack apps with React, Next.js, TypeScript, and Supabase
+🧠 Constantly learning & sharing what I learn
+🛠️ Focused on performance, developer experience, and clean UI
+🧠 My Favorite Stack
+React Next.js TypeScript TailwindCSS
 
-<!--
-**biggie1977/biggie1977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Check Out My React Course!
+Learn React.js from zero to hero in my full video course, packed with hands-on projects and modern practices.
 
-Here are some ideas to get you started:
+🚨 👉 Click here to access the course
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📈 GitHub Stats
+ 
+🤝 Connect with Me
 -->

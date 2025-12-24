@@ -2,6 +2,8 @@
 
 ### A Frontend Developer. 
 who is passionate about teaching and building fullstack apps with React, Next.js, TypeScript, and Supabase.
+I transform ideas into elegant digital solutions using modern web technologies.
+When I'm not coding, I enjoy staying up-to-date with the latest web development trends, contributing to open-source projects, and continuously improving my skills to deliver the best possible solutions for my clients.
 
 
 - 🔭 I'm currently working on **A MERN stack project**

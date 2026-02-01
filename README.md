@@ -10,7 +10,7 @@ When I'm not coding, I enjoy staying up-to-date with the latest web development 
 
 - 🌱 I'm currently learning **Typescript**
 
-- 💬 Ask me about **Bootstrap, HTML5, CSS3, JavaScript, React, Typescript **
+- 💬 Ask me about **Bootstrap, HTML5, CSS3, JavaScript, React, Typescript, Next Js **
 
 - 📫 How to reach me **olawoletemitope93@gmail.com**
 
